@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Depaul-Uni-Examen-Formular-Plata/static/css/main.6c16ac76.css",
+    "main.js": "/Depaul-Uni-Examen-Formular-Plata/static/js/main.2b48d828.js",
+    "index.html": "/Depaul-Uni-Examen-Formular-Plata/index.html",
+    "main.6c16ac76.css.map": "/Depaul-Uni-Examen-Formular-Plata/static/css/main.6c16ac76.css.map",
+    "main.2b48d828.js.map": "/Depaul-Uni-Examen-Formular-Plata/static/js/main.2b48d828.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c16ac76.css",
+    "static/js/main.2b48d828.js"
+  ]
+}
